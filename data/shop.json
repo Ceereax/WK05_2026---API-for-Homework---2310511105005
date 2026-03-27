@@ -1,0 +1,30 @@
+{
+  "currency": "coins",
+  "gacha_roll_price": 5,
+  "skins": [
+    {
+      "id": "skin_white",
+      "name": "White",
+      "description": "Default white snake skin.",
+      "rarity": "common"
+    },
+    {
+      "id": "skin_rainbow",
+      "name": "Rainbow",
+      "description": "Animated rainbow gradient skin.",
+      "rarity": "epic"
+    },
+    {
+      "id": "skin_shadow",
+      "name": "Shadow",
+      "description": "Dark shadow snake skin.",
+      "rarity": "rare"
+    },
+    {
+      "id": "skin_gold",
+      "name": "Gold",
+      "description": "Golden premium snake skin.",
+      "rarity": "legendary"
+    }
+  ]
+}

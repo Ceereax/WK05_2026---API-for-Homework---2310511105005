@@ -1,0 +1,31 @@
+{
+  "player": {
+    "name": "Snake",
+    "base_length": 4,
+    "move_step": 1,
+    "death_on_obstacle": true,
+    "skins": {
+      "default_equipped": "White",
+      "available": ["White", "Rainbow", "Shadow", "Gold"],
+      "rainbow_speed_default": 0.1
+    }
+  },
+  "food": {
+    "score_per_food": 1,
+    "base_color_speed": 3.0,
+    "tempo_amplitude": 1.5,
+    "tempo_speed": 0.3
+  },
+  "currency": {
+    "name": "coins",
+    "gain_per_score": 1,
+    "debug_add_100_key": "Equals",
+    "debug_reset_key": "Minus"
+  },
+  "scenes": {
+    "main_menu": "MainMenu",
+    "gameplay": "Gameplay",
+    "store": "GachaStore",
+    "login": "Login"
+  }
+}

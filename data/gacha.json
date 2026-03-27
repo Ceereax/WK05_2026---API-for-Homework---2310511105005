@@ -1,0 +1,26 @@
+{
+  "currency": "coins",
+  "cost_per_roll": 5,
+  "pools": [
+    {
+      "rarity": "common",
+      "chance": 0.7,
+      "skins": ["White"]
+    },
+    {
+      "rarity": "rare",
+      "chance": 0.2,
+      "skins": ["Shadow"]
+    },
+    {
+      "rarity": "epic",
+      "chance": 0.09,
+      "skins": ["Rainbow"]
+    },
+    {
+      "rarity": "legendary",
+      "chance": 0.01,
+      "skins": ["Gold"]
+    }
+  ]
+}
